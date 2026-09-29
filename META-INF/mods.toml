@@ -1,0 +1,21 @@
+modLoader="lowcodefml"
+showAsResourcePack = false
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="hunleashed"
+version="0.5.0"
+logoFile = "logo.png"
+logoBlur = false
+displayName="Heroes unleashed"
+description='''
+An superhero addon for palladium
+'''
+
+[[dependencies.hunleashed]]
+modId = "palladium"
+mandatory = true
+versionRange = ">=4.5.9"
+ordering = "NONE"
+side = "BOTH"

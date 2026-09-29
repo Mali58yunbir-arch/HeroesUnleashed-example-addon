@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "authors": [
+        "M.Ali_471"
+    ],
+    "environment": "*",
+    "id": "hunleashed",
+    "version": "0.5.0",
+    "name": "Heroes unleashed",
+    "description": "An superhero addon for palladium",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}
